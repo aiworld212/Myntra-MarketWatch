@@ -237,6 +237,6 @@ Ten charts covering price, brand, colour, product type, ratings, and correlation
 
 **[Yadav Sumit]**
 - GitHub: [@aiworld212](https://github.com/aiworld212)
-- LinkedIn: [linkedin.com/in/sumitydv]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sumit-yadav-436702398?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sumit-yadav-436702398?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
